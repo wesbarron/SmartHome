@@ -1,0 +1,12 @@
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\bin\Debug\Smart Home.exe.config
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\bin\Debug\Smart Home.exe
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\bin\Debug\Smart Home.pdb
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\bin\Debug\Smart Home.xml
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\obj\Debug\Smart Home.vbproj.AssemblyReference.cache
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\obj\Debug\Smart_Home.frmSmartHome.resources
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\obj\Debug\Smart_Home.Resources.resources
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\obj\Debug\Smart Home.vbproj.GenerateResource.cache
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\obj\Debug\Smart Home.vbproj.CoreCompileInputs.cache
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\obj\Debug\Smart Home.exe
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\obj\Debug\Smart Home.xml
+C:\Users\barron_wesley\source\repos\SmartHome\Smart Home\obj\Debug\Smart Home.pdb
